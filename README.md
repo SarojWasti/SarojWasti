@@ -15,7 +15,7 @@
 ## About Me
 
 I love developing websites, web apps like to explore new things everyday. I'm passionate about web design, development, Data Structure and Algorithms, and always motivated to learn new skills.
-<img alt="Awake All Night" src="" align="right"/>
+<img src="https://raw.githubusercontent.com/SarojWasti/SarojWasti/main/nightmode.gif?token=GHSAT0AAAAAABZSVYH5SI7VWTXQKFSSB2CIY2ELYFA" align="right" alt="NightMode"/>
 
 ## Tech Stack
 
