@@ -14,8 +14,7 @@
 
 ## About Me
 
-I love developing websites, web apps like to explore new things everyday. I'm passionate about web design, development, Data Structure and Algorithms, and always motivated to learn new skills.
-<img src="https://raw.githubusercontent.com/SarojWasti/SarojWasti/main/nightmode.gif?token=GHSAT0AAAAAABZSVYH5SI7VWTXQKFSSB2CIY2ELYFA" align="right" alt="NightMode"/>
+I love developing websites, web apps like to explore new things everyday. I'm passionate about web design, development, Data Structure and Algorithms, and always motivated to learn new skills. I also write gaming and tech blogs which you can find [here](https://onth3loop.blogspot.com).
 
 ## Tech Stack
 
@@ -24,12 +23,13 @@ I love developing websites, web apps like to explore new things everyday. I'm pa
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=for-the-badge&logo=Go&logoColor=A8B9CC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=for-the-badge&logo=ubuntu)&nbsp;
 ![WordPress](https://img.shields.io/badge/-Wordpress-05122A?style=for-the-badge&logo=wordpress)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -38,6 +38,13 @@ I love developing websites, web apps like to explore new things everyday. I'm pa
 <b>#Hacktoberfest2022</b>
 
 [![@sarojwasti's Holopin board](https://holopin.io/api/user/board?user=sarojwasti)](https://holopin.io/@sarojwasti)
+<p align="center">
+<b>Also, Here is a cool-looking Elliot (Mr. Robot) GIF! :)</b>
+</p>
+
+<p align="center">
+<img src="./nightmode.gif" height="200" alt="NightMode"/>
+</p>
 
 ## GitHub Analytics
 
