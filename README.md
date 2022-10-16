@@ -46,12 +46,6 @@ I love developing websites, web apps like to explore new things everyday. I'm pa
 <img src="./nightmode.gif" height="200" alt="NightMode"/>
 </p>
 
-## Spotify
-<b><i>Now Playing</i></b>
-
-[<img src="https://saroj-spotify.vercel.app/api/spotify" width="480" />](https://open.spotify.com/user/Wostz)
-
-
 ## GitHub Analytics
 
 <p align="center">
