@@ -38,13 +38,6 @@ I love developing websites, web apps and like to explore new things everyday. I'
 <b>#Hacktoberfest2022</b>
 
 [![@sarojwasti's Holopin board](https://holopin.io/api/user/board?user=sarojwasti)](https://holopin.io/@sarojwasti)
-<p align="center">
-<b>Also, Here is a cool-looking Elliot (Mr. Robot) GIF! :)</b>
-</p>
-
-<p align="center">
-<img src="./nightmode.gif" height="200" alt="NightMode"/>
-</p>
 
 ## GitHub Analytics
 
