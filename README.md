@@ -39,6 +39,10 @@ I love developing websites, web apps and like to explore new things everyday. I'
 
 [![@sarojwasti's Holopin board](https://holopin.io/api/user/board?user=sarojwasti)](https://holopin.io/@sarojwasti)
 
+## Novu Contributor Badge
+
+<a href="https://novu.co/contributors/SarojWasti/"><img src="https://contributors.novu.co/profiles/SarojWasti-small.jpg" height="170" width="450" alt="" /></a>
+
 ## GitHub Analytics
 
 <p align="center">
