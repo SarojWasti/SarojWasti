@@ -14,7 +14,7 @@
 
 ## About Me
 
-I love developing websites, web apps and like to explore new things everyday. I'm passionate about web design, development, Data Structure and Algorithms, and always motivated to learn new skills. I also write gaming and tech blogs which you can find [here](https://onth3loop.blogspot.com).
+I love developing websites, web apps and like to explore new things everyday. I'm passionate about web design, development, Data Structure and Algorithms, and always motivated to learn new skills. I also write gaming and tech blogs which you can find [here](https://bufferstories.com).
 
 ## Tech Stack
 
