@@ -34,23 +34,3 @@ I love developing websites, web apps and like to explore new things everyday. I'
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## Pins
-<b>#Hacktoberfest2022</b>
-
-[![@sarojwasti's Holopin board](https://holopin.io/api/user/board?user=sarojwasti)](https://holopin.io/@sarojwasti)
-
-## GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/SarojWasti">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarojWasti&show_icons=true&title_color=f90085&bg_color=000000&text_color=a2a2a2&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=SarojWasti&theme=violet-dark&date_format=M%20j%5B%2C%20Y%5D"/>
-  <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarojWasti&layout=compact&langs_count=10&theme=algolia"/>-->
-</a>
-</p>
-
-<details align="center">
-  <summary><strong>GitHub Profile Trophies 🏆</strong></summary>
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SarojWasti&column=4&margin-w=5&margin-h=5&theme=darkhub"></p>
-</details>
-
