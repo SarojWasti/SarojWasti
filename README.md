@@ -12,10 +12,6 @@
 <a href="https://hackerrank.com/wostez"><img src="https://img.shields.io/badge/-HackerRank-black?style=for-the-badge&logo=Hackerrank&logoColor=white"/></a>
 </p>
 
-## About Me
-
-I love developing websites, web apps and like to explore new things everyday. I'm passionate about web design, development, Data Structure and Algorithms, and always motivated to learn new skills. I also write gaming and tech blogs from time to time.
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
