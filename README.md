@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/saroj-wasti-787b49186"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"/></a>
+<a href="https://linkedin.com/in/saroj-wasti"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"/></a>
 <a href="https://instagram.com/sarojwasti"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=#c634a0"/></a>
 <a href="https://facebook.com/Saroz.wosti"><img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook&logoColor=blue"/></a>
 <a href="https://twitter.com/Sarozwosti"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=X&logoColor=white"/></a>
