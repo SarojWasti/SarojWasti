@@ -1,4 +1,4 @@
-<h2>Hi I'm Saroj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="27"/></h2>
+<h2>Hi I'm Saroj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24"/></h2>
 
 <p align='center'>
   <i><b>Let's Connect!</b></i>
