@@ -9,7 +9,6 @@
 <a href="https://instagram.com/sarojwasti"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&logoColor=#c634a0"/></a>
 <a href="https://facebook.com/Saroz.wosti"><img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook&logoColor=blue"/></a>
 <a href="https://twitter.com/Sarozwosti"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://leetcode.com/u/sarozwosti"><img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=#f3a248"/></a>
 </p>
 
 ## Tech Stack
